@@ -143,5 +143,9 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 * 
 
 ### *Inventory Management* -
-
+* I use many of the tools listed above to get detailed reports of current inventory.
+  * These reports are mainly used for our yearly MicroSoft True Up.
+  * 
 ### *Documentation* -
+* I create documentation in both One Note and our current Knowledge Base (ServiceNow) when i come across a fix for a problem that has no documentation.
+* I also update old documentation to have updated information or look better.
