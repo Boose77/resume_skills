@@ -140,7 +140,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 ### *Troubleshooting* -
 * Strong troubleshooting skills after 14 years of support work.
 * Outside the box thinking allows me to come up with solutions that others may have missed.
-* 
+* Great at working alone or along side someone to figure out a solution.
 
 ### *Inventory Management* -
 * I use many of the tools listed above to get detailed reports of current inventory.
