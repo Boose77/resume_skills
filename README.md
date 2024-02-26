@@ -5,12 +5,13 @@ Here you will find skills and systems I have gained knowledge of over the course
 
 ## <ins>Endpoint and Application Deployment</ins>
 ### *MicroSoft SCCM* - 
-* Helped implement into the company
-* Deployed endpoints via task sequence
-* Deployed software via deployment task and software center
-* Pulled reporting from SCCM to help asset management
+* Implemented SCCM into the company as part of a team.
+* Deploy desktops and laptops via the Task Sequence.
+* Deploy software through the distribution task and through the Software Center.
+* Deploy scripts to our endpoints for reasons like registry/reboots/OS settings
+* Pull reports for asset management.
+* Upgrade the SCCM console as needed.
 
-I have experience implementing SCCM in a company environment. After implementation was complete, SCCM was used on a daily basis for hardware and software deployment, asset management, and reporting.
 ### *MicroSoft Intune* - 
 I helped implement InTune to manage our mobile devices in the company. This required creating compliance policies, configuration profiles, and conditional access policies to secure company data on mobile devices.
 ### *IGEL / UMS* - 
