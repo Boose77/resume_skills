@@ -89,6 +89,15 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
 ### *ServiceNow* -
 
 ## <ins>General Skills</ins>
+### *Leadership*  -
+* Personality
+  * Patient
+  * Approachable
+  * Social
+  * Helpful
+* Daily team huddle meeting for team to discuss current day workload.
+* Weekly team meeting to discuss all items at a high level and any other events that need discussed.
+* Check in with team through out the day to make sure there are no questions unanwsered or if they need assistance.
 ### *Troubleshooting* -
 ### *Printers* -
 ### *Inventory Management* -
