@@ -53,8 +53,15 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 
 ## <ins>Endpoint Security</ins>
 ### *Group Policy* -
-* Create GPOs based off needs of the of the Company Environment
-  * 
+* Create GPO modifications based off needs of the of the company environment
+  * Any GPO that gets applied to endpoints in our environment is either created or auditing by me before being added in.
+  * OS Settings.
+  * Drive Mappings.
+  * Registry Settings.
+  * Network Authentication Settings.
+* Cleaned up over 70 outdated, unused, bad, or duplicated GPOs that were being applied to our endpoints.
+  * I took over GPO support during Windows 10 and made a push for less GPOs that covered more areas.
+  * Three GPOs now are now deployed to all Endpoints, streamlining the change control and troubleshooting process.
 
 ### *Local Password Administrator Solution* - 
 Helped implement LAPS into our environment. I deploy the software via SCCM both by task sequence and through the software center. I manage the settings for LAPS by group policy.
