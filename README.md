@@ -3,7 +3,7 @@
 ## Overview:
 Here you will an overview of systems and skill i've acquired through out my IT Career.
 
-## <ins>Endpoint and Application Deployment</ins>
+## <ins>Hardware and Software Deployment</ins>
 ### *MicroSoft SCCM* - 
 * Implemented SCCM into the company as part of a team.
   * Deploy desktops and laptops via the Task Sequence.
@@ -52,9 +52,16 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 
 ### *ManageEngine Tools* - 
 * AD Audit Plus
-  * Extensive use in AD Audit to troubleshoot issues with AD and User account issues.
+  * Extensive use of AD Audit to troubleshoot issues with AD and User account issues.
 * AD Manager Plus
 * M365 Manager Plus
+
+### *Printers* - 
+* Setup enterprise grade printers of varying models for use within the company.
+* Used the internal console of the printer to configure settings
+  * NIC settings.
+  * Scanning presets.
+  * Scan to Fax/email settings.
 
 ## <ins>Endpoint Security</ins>
 ### *Group Policy* -
@@ -79,7 +86,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 * Managed application rules via GPO.
 
 ### *MalwareBytes* - 
-* Implemented into our company by myself.
+* Implemented MalwareBytes into our company by myself.
 * Create configuration policies using the console.
 * Deploy via SCCM or manually install if needed.
 * Create security policies for the MWB client in the console
@@ -95,11 +102,29 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 * Currently under testing and getting a feel for the console.
 
 ## <ins>Enterprise Application</ins>
-### *MicroSoft Office 365* - 
+### *MicroSoft Office* - 
+* Deployed MicroSoft Office out to domain joined endpoints.
+  * Office 2013, 2016, 2019, 365
+  * Made two alternate deployements that included visio, project, and both.
 
 ### *Adobe Enterprise* - 
+* Implemented Adobe into our company by myself.
+* Purchased licenses as needed for the following components
+  * Adobe Acrobat Pro
+  * Adobe Creative Cloud
+  * Adobe for Teams
+* With Adobe Enterprise we were able to save money by having a tier based discount based on how many licenses we purchased.
 
 ### *ServiceNow* -
+* Implemented ServiceNow into our company as part of a team.
+* Biannual upgrade of ServiceNow version
+  * After upgradee i would test functionality of ServiceNow that are assigned to me.
+    * New hire process.
+    * Termination process.
+    * Company branding.
+    * User import from AD.
+    * ODBC connections.
+* SCCM and AD intergration.
 
 ## <ins>General Skills</ins>
 ### *Leadership*  -
@@ -113,8 +138,9 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 * Check in with team through out the day to make sure there are no questions unanwsered or if they need assistance.
 
 ### *Troubleshooting* -
-
-### *Printers* -
+* Strong troubleshooting skills after 14 years of support work.
+* Outside the box thinking allows me to come up with solutions that others may have missed.
+* 
 
 ### *Inventory Management* -
 
