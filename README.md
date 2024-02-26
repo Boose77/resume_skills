@@ -113,7 +113,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
   * Adobe Acrobat Pro
   * Adobe Creative Cloud
   * Adobe for Teams
-* With Adobe Enterprise we were able to save money by having a tier based discount based on how many licenses we purchased.
+* With Adobe Enterprise we save money by now hitting tier based discounts for having all licenses under one account.
 
 ### *ServiceNow* -
 * Implemented ServiceNow into our company as part of a team.
