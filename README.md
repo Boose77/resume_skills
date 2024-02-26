@@ -69,19 +69,30 @@ Here you will an overview of systems and skill i've acquired through out my IT C
   * Three GPOs now are now deployed to all Endpoints, streamlining the change control and troubleshooting process.
 
 ### *Local Password Administrator Solution* - 
-Helped implement LAPS into our environment. I deploy the software via SCCM both by task sequence and through the software center. I manage the settings for LAPS by group policy.
+* Implemented LAPS into our company as part of a team.
+* Manage application settings via GPO.
+* Deploy LAPS via SCCM through software deployment and software center.
 
 ### *AppLocker* - 
-I helped bring AppLocker into our company to help move towards our zero trust policy. We block all applications that run out of AppData and make allowances based on research.
+* Implemented AppLocker into our company as part of a team.
+* Create allow/deny rules based off research and discussion with team.
+* Managed application rules via GPO.
 
 ### *MalwareBytes* - 
-I brought in MalwareBytes to work alongside Kaspersky AV when Kaspersky was no longer working. MalwareBytes proved to be an effective lateral protection agent, so we've kept it while moving on to CarbonBlack.
+* Implemented into our company by myself.
+* Create configuration policies using the console.
+* Deploy via SCCM or manually install if needed.
+* Create security policies for the MWB client in the console
+* Daily dashboard checks to make sure there are no remediations needed.
 
 ### *CarbonBlack* - 
-Impleted by the Core Infrastructor team, my team is first contact for any alerts generated and caught by our 3rd part monitoring service. We follow up on any alerts and use the CarbonBlack console to research constantly.
+* Impleted into our company by our Core infrastructure team.
+* Work with 3rd party monitor service to verify credible threats or false positives.
+* Use console to research alerts as well as possible answers to other endpoint issues.
 
 ### *CrowdStrike* - 
-Implemented and in testing phase with our Core Infrastructure team. We have access to the console and are getting a feel for the product.
+* Impleted into our company by our Core infrastructure team.
+* Currently under testing and getting a feel for the console.
 
 ## <ins>Enterprise Application</ins>
 ### *MicroSoft Office 365* - 
