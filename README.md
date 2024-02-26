@@ -1,7 +1,7 @@
 # Resume Skill Set
 
 ## Overview:
-Here you will find skills and systems I have gained knowledge of over the course of working in the IT field.
+Here you will an overview of systems and skill i've acquired through out my IT Career.
 
 ## <ins>Endpoint and Application Deployment</ins>
 ### *MicroSoft SCCM* - 
@@ -13,7 +13,24 @@ Here you will find skills and systems I have gained knowledge of over the course
 * Upgrade the SCCM console as needed.
 
 ### *MicroSoft Intune* - 
-I helped implement InTune to manage our mobile devices in the company. This required creating compliance policies, configuration profiles, and conditional access policies to secure company data on mobile devices.
+* Implemented InTune into our company as part of a team.
+* Created Compliance Policies so that our devices meet a baseline we determined.
+  * Minimum OS version supported.
+  * Passcode requirements.
+  * Passcode numerical/alphabetical/both.
+  * Passcode needs to be x amount of digits long.
+  * Passcode required immediatly after device lock.
+* Created Conditional Access Policies that our devices follow
+  * Block known malicious IPs and countries.
+  * MFA required.
+  * Block ActiveSync and Exchange clients from authenticating.
+* Configuration Profiles
+  * WiFi authentication policy.
+  * WiFi certificate deployment.
+  * WiFi indentity deployment.
+  * Outlook 365 Profile deployment.
+* Certificate Renewal for InTune to work with Apple Devices
+
 ### *IGEL / UMS* - 
 Implemented the IGEL platform into our company. Over the years, I have updated and maintained the platform by updating OS versions, console versions, updated device policies, and new hardware models.
 ### *ManageEngine Tools* - 
