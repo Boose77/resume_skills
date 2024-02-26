@@ -21,7 +21,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
   * Passcode numerical/alphabetical/both.
   * Passcode needs to be x amount of digits long.
   * Passcode required immediatly after device lock.
-* Created Conditional Access Policies that our devices follow
+* Created Conditional Access Policies that our devices follow.
   * Block known malicious IPs and countries.
   * MFA required.
   * Block ActiveSync and Exchange clients from authenticating.
@@ -30,7 +30,11 @@ Here you will an overview of systems and skill i've acquired through out my IT C
   * WiFi certificate deployment.
   * WiFi indentity deployment.
   * Outlook 365 Profile deployment.
-* Certificate Renewal for InTune to work with Apple Devices
+* Certificate Renewal for InTune to work with Apple Devices.
+* Company Portal app used to sync mobile devices with InTune.
+* Deploy apps through a managed storefront.
+  * Microsoft Teams
+  * Microsoft Authenticator
 
 ### *IGEL / UMS* - 
 * Implemented IGELs into our company as part of a team.
