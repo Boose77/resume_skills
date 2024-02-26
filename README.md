@@ -5,6 +5,10 @@ Here you will find a overview of skills and systems i have gained over the cours
 
 ## <ins>Endpoint and Application Deployment</ins>
 ### *MicroSoft SCCM* - 
+- [x] Helped implement into the company
+- [x] Deployed endpoints via Task Sequence
+- [x] Deployed software 
+- [x] Pulled reporting from SCCM to help asset management
 I have experience implementing SCCM in a company environment. After implementation was complete, SCCM was used on a daily basis for hardware and software deployment, asset management, and reporting.
 ### *MicroSoft Intune* - 
 I helped implement InTune to manage our mobile devices in the company. This required creating compliance policies, configuration profiles, and conditional access policies to secure company data on mobile devices.
@@ -42,7 +46,3 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
 ### ** -
 ### ** -
 ### ** -
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
