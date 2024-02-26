@@ -15,6 +15,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 
 ### *MicroSoft Intune* - 
 * Implemented InTune into our company as part of a team.
+* Deploy a BitLocker policy to workstations as they get upgraded to Windows 11 so that company data is encrypted.
 * Created Compliance Policies so that our devices meet a baseline we determined.
   * Minimum OS version supported.
   * Passcode requirements.
