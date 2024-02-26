@@ -31,7 +31,7 @@ Here you will an overview of systems and skill i've acquired through out my IT C
   * WiFi indentity deployment.
   * Outlook 365 Profile deployment.
 * Certificate Renewal for InTune to work with Apple Devices.
-* Company Portal app used to sync mobile devices with InTune.
+* Company Portal app used to sync mobile devices with InTune policies.
 * Deploy apps through a managed storefront.
   * Microsoft Teams
   * Microsoft Authenticator
