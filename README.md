@@ -37,13 +37,8 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
 ### *Adobe Enterprise* - 
 ### *ServiceNow* -
 
-## <ins>General IT Skills</ins>
+## <ins>General Skills</ins>
 ### *Troubleshooting* -
 ### *Printers* -
 ### *Inventory Management* -
 ### *Documentation* -
-
-## <ins>Leadership Skills</ins>
-### ** -
-### ** -
-### ** -
