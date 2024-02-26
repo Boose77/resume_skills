@@ -13,7 +13,6 @@ Implemented the IGEL platform into our company. Over the years i have updated an
 ### *ManageEngine Tools* - 
 This tool was brought in by the Core Infrastructure team but i was able to get access to AD Audit Plus, AD Manager Plus, M365 Manager Plus. I've used these tools to help troubleshoot user account/active directory issues.
 
-
 ## <ins>Endpoint Security</ins>
 ### *Group Policy* - 
 ### *AppLocker* - 
@@ -21,8 +20,18 @@ This tool was brought in by the Core Infrastructure team but i was able to get a
 ### *CarbonBlack* - 
 ### *CrowdStrike* - 
 
-
 ## <ins>Enterprise Application</ins>
 ### *MicroSoft Office 365* - 
 ### *Adobe Enterprise* - 
 ### *ServiceNow* -
+
+##<ins>General IT Skills</ins>
+### ** -
+### ** -
+### ** -
+### ** -
+
+##<ins>Leadership Skills</ins>
+### ** -
+### ** -
+### ** -
