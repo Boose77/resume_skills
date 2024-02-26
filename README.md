@@ -16,6 +16,8 @@ This tool was brought in by the Core Infrastructure team but i was able to get a
 ## <ins>Endpoint Security</ins>
 ### *Group Policy* - 
 I create and have a hand in all group policies that are created and affect the endpoints. In preparation for our Windows 11 deployment i went through every GPO being applied to endpoints and created 1 single GPO with modern settings. I was able to clean up over 70 outdated, duplicate, or bad GPOs being applied to our endpoints.
+### *Local Password Administrator Solution* - 
+Helped implement LAPS into our environment. I deploy the software via SCCM both by task sequence and through the software center. I manage the settings for LAPS by group policy.
 ### *AppLocker* - 
 I helped bring AppLocker into our company to help move towards our zero trust policy. We block all applications that run out of AppData and make allowances based on research.
 ### *MalwareBytes* - 
@@ -31,10 +33,10 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
 ### *ServiceNow* -
 
 ## <ins>General IT Skills</ins>
-### ** -
-### ** -
-### ** -
-### ** -
+### *Troubleshooting* -
+### *Printers* -
+### *Inventory Management* -
+### *Documentation* -
 
 ## <ins>Leadership Skills</ins>
 ### ** -
