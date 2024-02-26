@@ -85,7 +85,9 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
 
 ## <ins>Enterprise Application</ins>
 ### *MicroSoft Office 365* - 
+
 ### *Adobe Enterprise* - 
+
 ### *ServiceNow* -
 
 ## <ins>General Skills</ins>
@@ -95,10 +97,14 @@ Implemented and in testing phase with our Core Infrastructure team. We have acce
   * Approachable
   * Social
   * Helpful
-* Daily team huddle meeting for team to discuss current day workload.
+* Daily team huddle meeting to quickly allow team to discuss their focus for the day.
 * Weekly team meeting to discuss all items at a high level and any other events that need discussed.
 * Check in with team through out the day to make sure there are no questions unanwsered or if they need assistance.
+
 ### *Troubleshooting* -
+
 ### *Printers* -
+
 ### *Inventory Management* -
+
 ### *Documentation* -
