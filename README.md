@@ -6,11 +6,11 @@ Here you will an overview of systems and skill i've acquired through out my IT C
 ## <ins>Endpoint and Application Deployment</ins>
 ### *MicroSoft SCCM* - 
 * Implemented SCCM into the company as part of a team.
-* Deploy desktops and laptops via the Task Sequence.
-* Deploy software through the distribution task and through the Software Center.
-* Deploy scripts to our endpoints for reasons like registry/reboots/OS settings
-* Pull reports for asset management.
-* Upgrade the SCCM console as needed.
+  * Deploy desktops and laptops via the Task Sequence.
+  * Deploy software through the distribution task and through the Software Center.
+  * Deploy scripts to our endpoints for reasons like registry/reboots/OS settings
+  * Pull reports for asset management.
+  * Upgrade the SCCM console as needed.
 
 ### *MicroSoft Intune* - 
 * Implemented InTune into our company as part of a team.
