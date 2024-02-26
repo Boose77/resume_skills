@@ -15,23 +15,28 @@ This tool was brought in by the Core Infrastructure team but i was able to get a
 
 ## <ins>Endpoint Security</ins>
 ### *Group Policy* - 
+I create or have a hand in all group policies that are created and affect the endpoints. In preparation for our Windows 11 deployment i went through every GPO being applied to endpoints and created 1 single GPO with modern settings. I was able to clean up over 70 outdated, duplicate, or bad GPOs being applied to our endpoints.
 ### *AppLocker* - 
+I helped bring in AppLocker into our company to help move towards our Zero Trust Policy. We block all applications that run out of AppData and make allowances based on research and communication with parties requesting the software.
 ### *MalwareBytes* - 
+I brough in MalwareBytes to work along side Kaspersky AV when Kaspersky was no longer working. MalwareBytes proved to be an effective lateral protection agent so we've kept it while moving on to CarbonBlack.
 ### *CarbonBlack* - 
+Impleted by the Core Infrastructor team, my team is first contact for any alerts generated and caught by our 3rd part monitoring service. We follow up on any alerts and use the CarbonBlack console to research constantly.
 ### *CrowdStrike* - 
+Implemented and in testing phase with our Core Infrastructure team. We have access to the console and are getting a feel for the product.
 
 ## <ins>Enterprise Application</ins>
 ### *MicroSoft Office 365* - 
 ### *Adobe Enterprise* - 
 ### *ServiceNow* -
 
-##<ins>General IT Skills</ins>
+## <ins>General IT Skills</ins>
 ### ** -
 ### ** -
 ### ** -
 ### ** -
 
-##<ins>Leadership Skills</ins>
+## <ins>Leadership Skills</ins>
 ### ** -
 ### ** -
 ### ** -
