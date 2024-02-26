@@ -1,7 +1,7 @@
 # Resume Skill Set
 
 ## Overview:
-Here you will an overview of systems and skill i've acquired through out my IT Career.
+Here you will find an overview of systems and skill i've acquired through out my IT Career.
 
 ## <ins>Hardware and Software Deployment</ins>
 ### *MicroSoft SCCM* - 
