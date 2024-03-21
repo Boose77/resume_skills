@@ -4,7 +4,7 @@
 Here you will find an overview of systems and skill i've acquired through out my IT Career.
 
 ## <ins>Hardware and Software Deployment</ins>
-### *MicroSoft SCCM* - 
+### *Microsoft SCCM* - 
 * Implemented SCCM into the company as part of a team.
   * Deploy desktops and laptops via the Task Sequence.
   * Deploy software through the distribution task and through the Software Center.
@@ -13,7 +13,7 @@ Here you will find an overview of systems and skill i've acquired through out my
   * Upgrade the SCCM console as needed.
   * Device cleanup.
 
-### *MicroSoft Intune* - 
+### *Microsoft Intune* - 
 * Implemented InTune into our company as part of a team.
 * Deploy a BitLocker policy to workstations as they get upgraded to Windows 11 so that company data is encrypted.
 * Created Compliance Policies so that our devices meet a baseline we determined.
@@ -102,8 +102,8 @@ Here you will find an overview of systems and skill i've acquired through out my
 * Currently under testing and getting a feel for the console.
 
 ## <ins>Enterprise Application</ins>
-### *MicroSoft Office* - 
-* Deployed MicroSoft Office out to domain joined endpoints.
+### *Microsoft Office* - 
+* Deployed Microsoft Office out to domain joined endpoints.
   * Office 2013, 2016, 2019, 365
   * Made two alternate deployements that included visio, project, and both.
 
@@ -144,7 +144,7 @@ Here you will find an overview of systems and skill i've acquired through out my
 
 ### *Inventory Management* -
 * I use many of the tools listed above to get detailed reports of current inventory.
-  * These reports are mainly used for our yearly MicroSoft True Up.
+  * These reports are mainly used for our yearly Microsoft True Up.
 
 ### *Documentation* -
 * I create documentation in both One Note and our current Knowledge Base (ServiceNow) when i come across a fix for a problem that has no documentation.
