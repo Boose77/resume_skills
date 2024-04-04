@@ -3,7 +3,7 @@
 ## Overview:
 Here you will find an overview of systems and skill i've acquired through out my IT Career.
 
-## <ins>Hardware and Software Deployment</ins>
+## Hardware and Software Deployment
 ### *Microsoft SCCM* - 
 * Implemented SCCM into the company as part of a team.
   * Deploy desktops and laptops via the Task Sequence.
@@ -63,7 +63,7 @@ Here you will find an overview of systems and skill i've acquired through out my
   * Scanning presets.
   * Scan to Fax/email settings.
 
-## <ins>Endpoint Security</ins>
+## Endpoint Security
 ### *Group Policy* -
 * Create GPO modifications based off needs of the of the company environment
   * Any GPO that gets applied to endpoints in our environment is either created or auditing by me before being added in.
@@ -101,7 +101,7 @@ Here you will find an overview of systems and skill i've acquired through out my
 * Impleted into our company by our Core infrastructure team.
 * Currently under testing and getting a feel for the console.
 
-## <ins>Enterprise Application</ins>
+## Enterprise Application
 ### *Microsoft Office* - 
 * Deployed Microsoft Office out to domain joined endpoints.
   * Office 2013, 2016, 2019, 365
@@ -126,7 +126,7 @@ Here you will find an overview of systems and skill i've acquired through out my
     * ODBC connections.
 * SCCM and AD intergration.
 
-## <ins>General Skills</ins>
+## General Skills
 ### *Leadership*  -
 * Personality
   * Patient
